@@ -2,3 +2,6 @@ MANZANA
 PLATANO
 PERA
 PEPINO
+movie 1
+movie 2
+movie 3
